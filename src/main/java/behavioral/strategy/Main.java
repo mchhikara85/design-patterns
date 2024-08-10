@@ -1,9 +1,9 @@
-package behavioral.strategy;
+package main.java.behavioral.strategy;
 
-import behavioral.strategy.solution.Adult;
-import behavioral.strategy.solution.Child;
-import behavioral.strategy.solution.Human;
-import behavioral.strategy.solution.Teenager;
+import main.java.behavioral.strategy.solution.Adult;
+import main.java.behavioral.strategy.solution.Child;
+import main.java.behavioral.strategy.solution.Human;
+import main.java.behavioral.strategy.solution.Teenager;
 
 import java.util.ArrayList;
 import java.util.List;

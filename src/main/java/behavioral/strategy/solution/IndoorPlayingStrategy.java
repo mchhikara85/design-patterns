@@ -1,4 +1,4 @@
-package behavioral.strategy.solution;
+package main.java.behavioral.strategy.solution;
 
 public class IndoorPlayingStrategy implements IPlayingStrategy {
 

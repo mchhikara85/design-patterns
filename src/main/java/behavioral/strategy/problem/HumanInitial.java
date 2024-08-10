@@ -1,4 +1,4 @@
-package behavioral.strategy.problem;
+package main.java.behavioral.strategy.problem;
 
 public class HumanInitial {
 
