@@ -6,7 +6,7 @@ import main.java.behavioral.observer.Product;
 import main.java.behavioral.observer.User;
 
 public class Main {
-    public static void main(String[] args) {
+    public static void main1(String[] args) {
         /*List<HumanInitial> humans = new ArrayList<>();
         humans.add(new AdultInitial());
         humans.add(new ChildInitial());
